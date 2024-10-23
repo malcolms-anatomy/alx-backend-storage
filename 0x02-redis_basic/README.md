@@ -70,3 +70,5 @@ This project contains tasks for learning to use the Redis NoSQL data storage app
   + Inside `get_page` track how many times a particular URL was accessed in the key `"count:{url}"` and cache the result with an expiration time of 10 seconds.
   + **Tip**: Use [http://slowwly.robertomurray.co.uk](http://slowwly.robertomurray.co.uk) to simulate a slow response and test your caching.
   + **Bonus**: implement this use case with decorators.
+
+Malcolm Iheremelam
